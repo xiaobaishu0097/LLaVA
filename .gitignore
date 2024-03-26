@@ -33,3 +33,10 @@ ckpts*
 
 # Demo
 serve_images/
+
+checkpoints/
+
+playground/*
+!playground/data/coco2014_val_qa_eval/*
+!playground/data/prompts/*
+!playground/data/coco2014_val_gpt4_qa_30x3.jsonl
